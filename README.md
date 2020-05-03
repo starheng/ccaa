@@ -19,7 +19,7 @@ Linux + Caddy + Aria2 + AriaNg，实现离线下载、文件管理、在线播�
 
 ### 安装CCAA
 
-bash <(curl -Lsk https://raw.githubusercontent.com/starheng/ccaa/blob/master/ccaa.sh)
+bash <(curl -Lsk https://raw.githubusercontent.com/starheng/ccaa/master/ccaa.sh)
 
 请参考帮助文档：[https://dwz.ovh/ccaa](https://dwz.ovh/ccaa)
 
